@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @Ananya1315
+# Hello there, I'm Ananya Samudrala :)
+
+<div align="left">
+  
+Hi, I'm Ananya, a 2nd-year BTech Computer Science (IoT) student at Shiv Nadar University. I’m passionate about solving challenging problems and diving deep into algorithms. Beyond academics, I’m exploring Web Development and Machine Learning, aiming to build innovative projects that combine technology with real-world impact. Let’s connect and explore exciting possibilities!
+
+</div>
 
 
-<!---
-Ananya1315/Ananya1315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills
+
+
+- **Languages**: C++,JAVA,Python,HTML,EJS,CSS,JavaScript,SQL
+- **Tools & Technologies**: TensorFlow,OpenCV,Sci-kit learn,Keras,Git
+- **Computer Scienece**:Data structures, DBMS,OOPS,Basic Machine learning algorithm  
+- **Iot**: Arduino, ESP32, Sensor Tech 
+
+
+
+#### Competitive Programming
+- **Platforms**: LeetCode, Codeforces
+
+### Connect with Me
+- Feel free to email anusamudrala4@gmail.com for any queries
+
+### Visitor Counter
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Ananya1315/count.svg" />
+</p>
