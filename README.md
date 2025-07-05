@@ -2,7 +2,7 @@
 
 <div align="left">
   
-Hi, I'm Ananya, a 2nd-year BTech Computer Science (IoT) student at Shiv Nadar University. I’m passionate about solving challenging problems and diving deep into algorithms. Beyond academics, I’m exploring Web Development and Machine Learning, aiming to build innovative projects that combine technology with real-world impact. Let’s connect and explore exciting possibilities!
+Hi, I'm Ananya, a 3rd-year BTech Computer Science (IoT) student at Shiv Nadar University. I’m passionate about solving challenging problems and diving deep into algorithms. Beyond academics, I’m exploring Web Development and Machine Learning, aiming to build innovative projects that combine technology with real-world impact. Let’s connect and explore exciting possibilities!
 
 </div>
 
