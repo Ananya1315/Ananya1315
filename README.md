@@ -10,7 +10,7 @@ Hi, I'm Ananya, a 3rd-year BTech Computer Science (IoT) student at Shiv Nadar Un
 ### Skills
 
 
-- **Languages**: C++,JAVA,Python,HTML,,CS,JavaScript,SQL,React js
+- **Languages**: C++,JAVA,Python,HTML,CS,JavaScript,SQL,React js
 - **Tools & Technologies**: TensorFlow,OpenCV,Sci-kit learn,K,Gi
 - **Computer Scienece**:Data structures, OS, DBMS,OOPS,Basic Machine learning algorithm  
 - **Iot**: Arduino, ESP32, Sensor Tech 
