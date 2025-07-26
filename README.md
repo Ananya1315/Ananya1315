@@ -1,8 +1,11 @@
 # Hello there, I'm Ananya Samudrala :)
 
 <div align="left">
-  
-Hi, I'm Ananya, a 3rd-year BTech Computer Science (IoT) student at Shiv Nadar University. I’m passionate about solving challenging problems and diving deep into algorithms. Beyond academics, I’m exploring Web Development and Machine Learning, aiming to build innovative projects that combine technology with real-world impact. Let’s connect and explore exciting possibilities!
+
+Hey! I’m Ananya, a 3rd-year B.Tech Computer Science (IoT) student at Shiv Nadar University, curious about all things tech and driven by a love for solving tough problems.
+Whether it’s cracking an algorithm, building a web app, or exploring the magic of machine learning, I’m always up for a challenge that blends logic with creativity.
+I’m on a mission to build tech that actually makes a difference in the real world. Let’s connect and create something awesome together!
+
 
 </div>
 
