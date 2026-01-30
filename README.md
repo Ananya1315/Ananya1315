@@ -27,6 +27,5 @@ I’m on a mission to build tech that actually makes a difference in the real wo
 - Feel free to email anusamudrala4@gmail.com for any queries
 
 ### Visitor Counter
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Ananya1315/count.svg" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ananya1315&color=ff69b4)
+
