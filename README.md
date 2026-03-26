@@ -1,31 +1,55 @@
-# Hello there, I'm Ananya Samudrala :)
+# Hey, I'm Ananya Samudrala 👋
 
-<div align="left">
+🚀 3rd-year CSE (IoT) student at Shiv Nadar University  
+💻 Focused on Full-Stack Development, AI Systems, and Backend Engineering  
+⚙️ Building real-time applications, AI-driven tools, and system visualizers  
 
-Hey! I’m Ananya, a 3rd-year B.Tech Computer Science (IoT) student at Shiv Nadar University, curious about all things tech and driven by a love for solving tough problems.
-Whether it’s cracking an algorithm, building a web app, or exploring the magic of machine learning, I’m always up for a challenge that blends logic with creativity.
-I’m on a mission to build tech that actually makes a difference in the real world. Let’s connect and create something awesome together!
+🧠 Strengthening Data Structures & Algorithms, System Design, and scalable backend systems  
 
+✨ Open to internships and collaborative projects  
 
-</div>
-
-
-### Skills
+> Building solutions, not just code.
 
 
-- **Languages**: C++,JAVA,Python,HTML,CS,JavaScript,SQL,React js
-- **Tools & Technologies**: TensorFlow,OpenCV,Sci-kit learn,K,Gi
-- **Computer Scienece**:Data structures, OS, DBMS,OOPS,Basic Machine learning algorithm  
-- **Iot**: Arduino, ESP32, Sensor Tech 
+## 🛠 Tech Stack
+
+**Languages:**  
+C++, Java, Python, JavaScript, SQL  
+
+**Frontend:**  
+HTML, CSS, React.js  
+
+**Backend & Tools:**  
+Node.js, Express.js, Git, GitHub  
+
+**AI/ML & Libraries:**  
+TensorFlow, OpenCV, scikit-learn  
+
+**Core CS Concepts:**  
+Data Structures & Algorithms, DBMS, Operating Systems, OOP  
+
+**IoT:**  
+Arduino, ESP32, Sensor Technologies  
+
+**DevOps & Others:**  
+GitHub Actions (CI/CD basics), REST APIs  
 
 
+## 🚀 What I'm Working On
 
-#### Competitive Programming
-- **Platforms**: LeetCode
+- AI-powered SDLC assistant for automating early-stage development workflows  
+- Full-stack women safety monitoring system with real-time alerts  
+- Interactive job scheduling visualizer using React  
+- Practicing DSA and improving problem-solving skills (LeetCode)  
 
-### Connect with Me
-- Feel free to email anusamudrala4@gmail.com for any queries
 
-### Visitor Counter
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ananya2218  
+- GitHub: https://github.com/Ananya1315  
+- LeetCode: https://leetcode.com/u/anu_1315/  
+- Email: anusamudrala4@gmail.com  
+
+
+## 👀 Visitor Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=Ananya1315&color=ff69b4)
-
