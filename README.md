@@ -3,7 +3,6 @@
 🚀 3rd-year CSE (IoT) student at Shiv Nadar University  
 💻 Focused on Full-Stack Development, AI Systems, and Backend Engineering  
 ⚙️ Building real-time applications, AI-driven tools, and system visualizers  
-
 🧠 Strengthening Data Structures & Algorithms, System Design, and scalable backend systems  
 
 ✨ Open to internships and collaborative projects  
